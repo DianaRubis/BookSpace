@@ -1,0 +1,157 @@
+# Translation of Themes - Library Bookstore in Russian
+# This file is distributed under the same license as the Themes - Library Bookstore package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2023-09-01 13:28:21+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/4.0.1\n"
+"Language: ru\n"
+"Project-Id-Version: Themes - Library Bookstore\n"
+
+#. Theme Name of the theme
+#: style.css
+#, gp-priority: high
+msgid "Library Bookstore"
+msgstr "Library Bookstore"
+
+#. Description of the theme
+#: style.css
+#, gp-priority: high
+msgid "Library Bookstore WordPress Theme is designed especially for libraries, bookstores, and other literary-focused websites. It can be used to create an online presence, an online store, or just a literary-focused blog website. The theme comes with a clean and modern design, making it easy for users to navigate and find the information they need. Library Bookstore WordPress Theme comes with a responsive design, which ensures that the website looks great and functions seamlessly on any device. Whether users are browsing on a desktop computer, tablet, or smartphone, they will be able to access all of the website's features and content without any issues. In terms of features, the Library Bookstore WordPress Theme includes a range of features that are ideal for libraries and bookstores. The theme includes a built-in catalog system that allows users to easily search for and locate books in the library's collection. Users can search by author, title, subject, and more, making it easy to find the books they're looking for. In addition to these features, the Library Bookstore theme also includes a blog section where users can publish news, updates, and other relevant content. The theme is fully compatible with WordPress's blogging platform, making it easy to create and publish high-quality content that engages users and drives traffic to the website. The theme is also translation ready and helps in translating the text on your website to multiple local and international languages."
+msgstr "Тема Library Bookstore WordPress Theme разработана специально для библиотек, книжных магазинов и других сайтов, ориентированных на литературу. Она может быть использована для создания онлайн-представительства, интернет-магазина или просто сайта-блога, ориентированного на литературу. Тема имеет чистый и современный дизайн, что позволяет пользователям легко ориентироваться и находить нужную информацию. Тема Library Bookstore WordPress Theme имеет отзывчивый дизайн, благодаря которому сайт отлично выглядит и легко функционирует на любом устройстве. Независимо от того, просматривают ли пользователи настольный компьютер, планшет или смартфон, они смогут получить доступ ко всем функциям и содержимому сайта без каких-либо проблем. Что касается возможностей, то тема Library Bookstore WordPress Theme включает в себя целый ряд функций, которые идеально подходят для библиотек и книжных магазинов. Тема включает встроенную систему каталогов, которая позволяет пользователям легко искать и находить книги в фонде библиотеки. Пользователи могут осуществлять поиск по автору, названию, теме и т.д., что позволяет легко находить нужные им книги. В дополнение к этим функциям тема Library Bookstore включает в себя раздел блога, в котором пользователи могут публиковать новости, обновления и другие важные материалы. Тема полностью совместима с блог-платформой WordPress, что позволяет легко создавать и публиковать высококачественный контент, который привлекает пользователей и привлекает трафик на сайт. Тема также готова к переводу и помогает перевести текст на сайте на несколько местных и международных языков."
+
+#: functions.php:148
+msgid "Customizer Options"
+msgstr "Настройка темы оформления"
+
+#: functions.php:17
+msgid "https://wordpress.org/support/theme/library-bookstore"
+msgstr "https://wordpress.org/support/theme/library-bookstore"
+
+#: functions.php:20
+msgid "https://wordpress.org/support/theme/library-bookstore/reviews/#new-post"
+msgstr "https://wordpress.org/support/theme/library-bookstore/reviews/#new-post"
+
+#: functions.php:32
+msgid "Buy Library Bookstore Pro"
+msgstr "Купить Library Bookstore Pro"
+
+#. translators: 1: number of comments, 2: post title
+#: comments.php:37
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s комментарий для &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s комментария для &ldquo;%2$s&rdquo;"
+msgstr[2] "%1$s комментариев для &ldquo;%2$s&rdquo;"
+
+#: functions.php:236
+msgid "Add widgets here."
+msgstr "Добавьте виджеты здесь."
+
+#: comments.php:53 comments.php:67
+msgid "Comment navigation"
+msgstr "Навигация по комментарию"
+
+#: comments.php:80
+msgid "Comments are closed."
+msgstr "Обсуждение закрыто."
+
+#. Template Name of the theme
+msgid "Home Template"
+msgstr "Шаблон главной страницы"
+
+#: comments.php:56 comments.php:70
+msgid "Newer Comments"
+msgstr "Новые комментарии"
+
+#: comments.php:55 comments.php:69
+msgid "Older Comments"
+msgstr "Предыдущие комментарии"
+
+#. translators: %s: post title
+#: comments.php:32
+msgid "One thought on &ldquo;%s&rdquo;"
+msgstr "Один комментарий к &ldquo;%s&rdquo;"
+
+#. translators: %s: CMS name, i.e. WordPress.
+#: footer.php:79
+msgid "Proudly powered by %s"
+msgstr "Работает на %s"
+
+#: functions.php:234
+msgid "Sidebar"
+msgstr "Область виджетов"
+
+#: footer.php:104
+msgid "TOP"
+msgstr "ВЕРХ"
+
+#. translators: 1: TheMagnifico.
+#: footer.php:92
+msgid "by %1$s."
+msgstr "от %1$s."
+
+#: functions.php:85
+msgid "Section Title"
+msgstr "Название раздела"
+
+#. translators: 1: Library Bookstore WordPress Theme,
+#: footer.php:87
+msgid " %1$s "
+msgstr " %1$s "
+
+#: functions.php:14
+msgid "Library Bookstore Pro"
+msgstr "Library Bookstore Pro"
+
+#: functions.php:77
+msgid "Latest Product"
+msgstr "Последний товар"
+
+#: functions.php:78
+msgid "Here you have to select product category which will display perticular latest product in the home page."
+msgstr "Здесь вы должны выбрать категорию продукта, которая будет отображать конкретный последний продукт на главной странице."
+
+#: functions.php:94
+msgid "Section Sub Title"
+msgstr "Подзаголовок раздела"
+
+#: functions.php:103
+msgid "Product Count"
+msgstr "Счётчик товаров"
+
+#: functions.php:137
+msgid "Select Product Category"
+msgstr "Выберите категорию товара"
+
+#: page-template/home-template.php:84
+msgid "Reviews"
+msgstr "Отзывы"
+
+#: template-parts/topheader/topheader.php:29
+msgid "My Account"
+msgstr "Моя учётная запись"
+
+#: template-parts/topheader/topheader.php:32
+msgid "Login / Register"
+msgstr "Вход / Регистрация"
+
+#: footer.php:76
+msgid "https://wordpress.org/"
+msgstr "https://ru.wordpress.org/"
+
+#. Author of the theme
+#: style.css
+#, gp-priority: low
+msgid "TheMagnifico52"
+msgstr "TheMagnifico52"
+
+#. Author URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "https://www.themagnifico.net/"
+msgstr "https://www.themagnifico.net/"

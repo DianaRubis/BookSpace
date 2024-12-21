@@ -1,0 +1,634 @@
+# Translation of Themes - Digital Books in Russian
+# This file is distributed under the same license as the Themes - Digital Books package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2023-08-17 15:07:30+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/4.0.1\n"
+"Language: ru\n"
+"Project-Id-Version: Themes - Digital Books\n"
+
+#. Theme Name of the theme
+#: style.css
+#, gp-priority: high
+msgid "Digital Books"
+msgstr "Digital Books"
+
+#. Description of the theme
+#: style.css
+#, gp-priority: high
+msgid "Digital Books is a perfect theme for book store, education, author, selling ebooks, PDFs online, journalists, editors, publishers, course providers, online book stores, literature, library, comic book store, copywriter, journal, publisher, story, caters education, teachers, book portfolio, blogs about readers and book lovers, institutes, bookstore, book keeper, comic-con, comic subscription, marvel avengers, training academy, coaching centre, LMS, guidance, counselling centre, e-learning, kindergartens, playschools, book landing, book-storage, book series, copywriter and primary school websites. The theme has an eye-catching, sophisticated and modern design that your visitors will surely like.It has many options for customization and personalization to get you exactly the website you like. It is SEO-friendly theme that will help your website rank soon on major search engines like Google. It is implemented on bootstrap framework. You have the option to include shortcodes that will improve the functionality of your website. Also, it is a translation-ready theme that supports many local and international languages with RTL layout. The theme has faster page load time and optimized codes. The design is responsive so it can be viewed on any device. You can link all your social media pages to give credibility to your work."
+msgstr "Digital Books - это идеальная тема для книжного магазина, образования, автора, продажи электронных книг, PDF-файлов онлайн, журналистов, редакторов, издателей, поставщиков курсов, книжных интернет-магазинов, литературы, библиотеки, магазина комиксов, копирайтера, журнала, издателя, истории, катеризации образования, учителей, книжного портфолио, блоги о читателях и книголюбах, институты, книжный магазин, хранитель книг, комикс-кон, подписка на комиксы, marvel avengers, учебная академия, коучинг-центр, LMS, профориентация, консультационный центр, электронное обучение, детские сады, игровые школы, книжный десант, книгохранилище, книжные серии, копирайтер и сайты начальной школы. Тема имеет привлекательный, изысканный и современный дизайн, который наверняка понравится вашим посетителям. Она имеет множество возможностей для настройки и персонализации, чтобы создать именно тот сайт, который вам нравится. Это SEO-дружественная тема, которая поможет вашему сайту быстро занять место в основных поисковых системах, таких как Google. Она реализована на основе фреймворка bootstrap. Вы можете включить шорткоды, которые улучшат функциональность вашего сайта. Кроме того, это тема с возможностью перевода, поддерживающая множество локальных и международных языков с RTL-макетом. Тема имеет более быстрое время загрузки страниц и оптимизированный код. Дизайн является отзывчивым, поэтому его можно просматривать на любом устройстве. Вы можете связать все свои страницы в социальных сетях, чтобы придать авторитет своей работе."
+
+#: inc/customizer.php:508
+msgid "Check this box to enable post thumbnail on single post."
+msgstr "Отметьте, чтобы включить миниатюру записи в отдельной записи."
+
+#: inc/customizer.php:562
+msgid "Check this box to enable title on single post."
+msgstr "Отметьте, чтобы включить заголовок для отдельной записи."
+
+#: inc/customizer.php:506
+msgid "Enable Single Post Thumbnail"
+msgstr "Включить миниатюру отдельной записи"
+
+#: inc/customizer.php:560
+msgid "Enable Single Post Title"
+msgstr "Включить заголовок отдельной записи"
+
+#: inc/customizer.php:409
+msgid "Post Settings"
+msgstr "Настройки записи"
+
+#: inc/customizer.php:549
+msgid "Enable Single Post Meta"
+msgstr "Включить метаданные для отдельной записи"
+
+#: inc/customizer.php:551
+msgid "Check this box to enable single post meta such as post date, author, category, comment etc."
+msgstr "Отметьте, чтобы включить метаданные отдельной записи, такие как дата записи, автор, рубрика, комментарий и т. д."
+
+#: inc/customizer.php:305
+msgid "Product per page"
+msgstr "Товар на страницу"
+
+#: inc/customizer.php:290
+msgid "Product per row"
+msgstr "Товар на строку"
+
+#: inc/customizer.php:146 inc/customizer.php:402 inc/customizer.php:632
+#: inc/customizer.php:672 inc/customizer.php:710 inc/customizer.php:856
+#: inc/customizer.php:994 inc/customizer.php:1080 inc/customizer.php:1216
+msgid "Customizer Options"
+msgstr "Настройка темы оформления"
+
+#: inc/customizer.php:17
+msgid "Buy Digital Books Pro"
+msgstr "Купить Digital Books Pro"
+
+#: inc/customizer.php:873
+msgid "Enable Disable Slider"
+msgstr "Слайдер вкл/откл"
+
+#: inc/customizer.php:1010
+msgid "Enable Disable Product"
+msgstr "Товар вкл/откл"
+
+#: inc/customizer.php:94
+msgid "Logo Width"
+msgstr "Ширина логотипа"
+
+#: inc/customizer.php:884
+msgid "On Of Slider Loop"
+msgstr "Вклбчить цикла слайдера"
+
+#: inc/customizer.php:725
+msgid "Show Social Icon"
+msgstr "Показать значок соцсети"
+
+#: inc/customizer.php:214
+msgid "Show Theme Scroll To Top"
+msgstr "Показать тему прокрутить вверх"
+
+#: inc/customizer.php:741
+msgid "Select font awesome icons <a target=\"_blank\" href=\"https://fontawesome.com/v5/search?m=free\">Click Here</a> for select icon. for eg:-fab fa-facebook-f"
+msgstr "Выберите шрифт значков Awesome <a target=\"_blank\" href=\"https://fontawesome.com/v5/search?m=free\">Нажмите здесь</a>, чтобы выбрать значок. напр.: -fab fa-facebook-f"
+
+#: inc/customizer.php:788
+msgid "Select font awesome icons <a target=\"_blank\" href=\"https://fontawesome.com/v5/search?m=free\">Click Here</a> for select icon. for eg:-fab fa-instagram"
+msgstr "Выберите шрифт значков Awesome <a target=\"_blank\" href=\"https://fontawesome.com/v5/search?m=free\">Нажмите здесь</a>, чтобы выбрать значок. напр.: -fab fa-instagram"
+
+#: inc/customizer.php:812
+msgid "Select font awesome icons <a target=\"_blank\" href=\"https://fontawesome.com/v5/search?m=free\">Click Here</a> for select icon. for eg:-fab fa-linkedin-in"
+msgstr "Выберите шрифт значков Awesome <a target=\"_blank\" href=\"https://fontawesome.com/v5/search?m=free\">Нажмите здесь</a>, чтобы выбрать значок. напр.: -fab fa-linkedin-in"
+
+#: inc/customizer.php:835
+msgid "Select font awesome icons <a target=\"_blank\" href=\"https://fontawesome.com/v5/search?m=free\">Click Here</a> for select icon. for eg:-fab fa-pinterest-p"
+msgstr "Выберите шрифт значков Awesome <a target=\"_blank\" href=\"https://fontawesome.com/v5/search?m=free\">Нажмите здесь</a>, чтобы выбрать значок. напр.: -fab fa-pinterest-p"
+
+#: inc/customizer.php:764
+msgid "Select font awesome icons <a target=\"_blank\" href=\"https://fontawesome.com/v5/search?m=free\">Click Here</a> for select icon. for eg:-fab fa-twitter"
+msgstr "Выберите шрифт значков Awesome <a target=\"_blank\" href=\"https://fontawesome.com/v5/search?m=free\">Нажмите здесь</a>, чтобы выбрать значок. напр.: -fab fa-twitter"
+
+#: inc/customizer.php:736
+msgid "Add Facebook Icon"
+msgstr "Добавить значок Facebook"
+
+#: inc/customizer.php:759
+msgid "Add Twitter Icon"
+msgstr "Добавить значок Twitter"
+
+#: inc/customizer.php:783
+msgid "Add Intagram Icon"
+msgstr "Добавить значок Intagram"
+
+#: inc/customizer.php:807
+msgid "Add Linkedin Icon"
+msgstr "Добавить значок Linkedin"
+
+#: inc/customizer.php:830
+msgid "Add Pinterest Icon"
+msgstr "Добавить значок Pinterest"
+
+#: functions.php:138
+msgid "Footer Column 1"
+msgstr "Столбец 1 подвала"
+
+#: functions.php:148
+msgid "Footer Column 2"
+msgstr "Столбец 2 подвала"
+
+#: functions.php:158
+msgid "Footer Column 3"
+msgstr "Столбец 3 подвала"
+
+#: inc/customizer.php:688
+msgid "First Color Option"
+msgstr "Первый вариант цвета"
+
+#: inc/customizer.php:698
+msgid "Second Color Option"
+msgstr "Второй вариант цвета"
+
+#: functions.php:447
+msgid "Theme Options"
+msgstr "Настройки темы"
+
+#: functions.php:447
+msgid " Theme Options"
+msgstr " Настройки темы"
+
+#: functions.php:515
+msgid "Basic Version"
+msgstr "Базовая версия"
+
+#: functions.php:503
+msgid "Checkout Documentation"
+msgstr "Документация по оформлению заказа"
+
+#: functions.php:471
+msgid "Checkout Premium"
+msgstr "Оформить заказ Премиум"
+
+#: functions.php:462 functions.php:465
+msgid "Contact Support"
+msgstr "Связаться с поддержкой"
+
+#: functions.php:527
+msgid "Custom Navigation Logo Or Text"
+msgstr "Пользовательский логотип или текст навигации"
+
+#: functions.php:574
+msgid "Custom Text On Header Image"
+msgstr "Пользовательский текст на изображении заголовка"
+
+#: functions.php:624
+msgid "Customize Background Color"
+msgstr "Настройка цвета фона"
+
+#: functions.php:609
+msgid "Customize Blog Feed Color"
+msgstr "Настройка цвета фида блога"
+
+#: functions.php:614
+msgid "Customize Footer Color"
+msgstr "Настройка цвета подвала"
+
+#: functions.php:599
+msgid "Customize Navigation Color"
+msgstr "Настройка цвета навигации"
+
+#: functions.php:604
+msgid "Customize Post/Page Color"
+msgstr "Настройка цвета записи/страницы"
+
+#: functions.php:619
+msgid "Customize Sidebar Color"
+msgstr "Настройка цвета боковой панели"
+
+#: functions.php:594
+msgid "Customize Upper Widgets Colors"
+msgstr "Настройка цветов верхних виджетов"
+
+#: functions.php:554
+msgid "Easy Google Fonts"
+msgstr "Easy Google Fonts"
+
+#: functions.php:500
+msgid "Free Vs Premium"
+msgstr "Free против Premium"
+
+#: functions.php:579
+msgid "Full Width (Hide Sidebar)"
+msgstr "Полная ширина (скрыть боковую панель)"
+
+#: functions.php:543
+msgid "Fully SEO Optimized"
+msgstr "Полностью SEO-оптимизированная"
+
+#: functions.php:474
+msgid "Get Premium"
+msgstr "Получить Премиум"
+
+#: functions.php:637
+msgid "Go Premium"
+msgstr "Перейти на Премиум"
+
+#: functions.php:522
+msgid "Header Background Color"
+msgstr "Цвет фона заголовка"
+
+#: functions.php:532
+msgid "Hide Logo Text"
+msgstr "Скрыть текст логотипа"
+
+#: functions.php:629
+msgid "Importable Demo Content\t"
+msgstr "Импортируемый демо-контент"
+
+#: functions.php:564
+msgid "Only Show Header Image On Front Page"
+msgstr "Показывать только изображение заголовка на главной странице"
+
+#: functions.php:584
+msgid "Only Show Upper Widgets On Front Page"
+msgstr "Показывать только верхние виджеты на главной странице"
+
+#: functions.php:472
+msgid "Our premium theme comes with extended features like demo content import , responsive layouts etc."
+msgstr "Наша тема премиум-класса поставляется с расширенными функциями, такими как импорт демо-контента, адаптивные макеты и т. д."
+
+#: functions.php:559
+msgid "Pagespeed Plugin"
+msgstr "Плагин скорости страницы"
+
+#: inc/customizer.php:183
+msgid "Preloader First Dot Color"
+msgstr "Цвет первой точки загрузки"
+
+#: inc/customizer.php:193
+msgid "Preloader Second Dot Color"
+msgstr "Цвет второй точки загрузки"
+
+#: functions.php:538
+msgid "Premium Support"
+msgstr "Премиум поддержка"
+
+#: functions.php:516
+msgid "Premium Version"
+msgstr "Премиум версия"
+
+#: functions.php:548
+msgid "Recent Posts Widget"
+msgstr "Виджет последних записей"
+
+#: functions.php:589
+msgid "Replace Copyright Text"
+msgstr "Заменить текст авторского права"
+
+#: functions.php:480 functions.php:483
+msgid "Review"
+msgstr "Отзыв"
+
+#: functions.php:569
+msgid "Show Header Everywhere"
+msgstr "Показывать заголовок везде"
+
+#: functions.php:514
+msgid "Theme Feature"
+msgstr "Функции темы"
+
+#: functions.php:506
+msgid "View Theme Demo"
+msgstr "Посмотреть демонстрацию темы"
+
+#: functions.php:457
+msgid "Welcome To "
+msgstr "Добро пожаловать в "
+
+#: functions.php:424
+msgid "https://wordpress.org/support/theme/digital-books"
+msgstr "https://wordpress.org/support/theme/digital-books"
+
+#: functions.php:427
+msgid "https://wordpress.org/support/theme/digital-books/reviews/#new-post"
+msgstr "https://wordpress.org/support/theme/digital-books/reviews/#new-post"
+
+#: functions.php:463
+msgid "Thank you for trying Digital Books , feel free to contact us for any support regarding our theme."
+msgstr "Спасибо за попытку использования Digital Books, не стесняйтесь обращаться к нам за любой поддержкой, касающейся нашей темы."
+
+#: functions.php:481
+msgid "If You love Digital Books theme then we would appreciate your review about our theme."
+msgstr "Если вам нравится тема Digital Books , мы будем признательны за ваш отзыв о нашей теме."
+
+#: inc/customizer.php:153
+msgid "General Settings"
+msgstr "Общие настройки"
+
+#: inc/customizer.php:173
+msgid "Preloader Background Color"
+msgstr "Цвет фона анимации загрузки"
+
+#: inc/customizer.php:162
+msgid "Show Theme Preloader"
+msgstr "Показать анимацию загрузки темы"
+
+#: inc/customizer.php:203
+msgid "Show Sticky Header"
+msgstr "Показать прикрепленный заголовок"
+
+#: footer.php:104
+msgid "TOP"
+msgstr "ВЕРХ"
+
+#: inc/customizer.php:679
+msgid "Theme Color"
+msgstr "Цвет темы"
+
+#. translators: 1: Theme author.
+#: footer.php:92
+msgid "by %1$s."
+msgstr "от %1$s."
+
+#. translators: 1: Theme name,
+#: footer.php:87
+msgid " %1$s "
+msgstr " %1$s "
+
+#. Template Name of the theme
+msgid "Full Width Template"
+msgstr "Шаблон во всю ширину"
+
+#. translators: 1: number of comments, 2: post title
+#: comments.php:37
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s комментарий для &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s комментария для &ldquo;%2$s&rdquo;"
+msgstr[2] "%1$s комментариев для &ldquo;%2$s&rdquo;"
+
+#. translators: %s: post date
+#. translators: %s: post author
+#: inc/template-tags.php:26 inc/template-tags.php:32
+msgid "<span class=\"screen-reader-text\">Posted on</span> %s"
+msgstr "<span class=\"screen-reader-text\">Опубликовано</span> %s"
+
+#: functions.php:120
+msgid "Add widgets here."
+msgstr "Добавьте виджеты здесь."
+
+#: comments.php:53 comments.php:67
+msgid "Comment navigation"
+msgstr "Навигация по комментарию"
+
+#: comments.php:80
+msgid "Comments are closed."
+msgstr "Обсуждение закрыто."
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: template-parts/content-single.php:46
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr "Читать далее<span class=\"screen-reader-text\"> \"%s\"</span>"
+
+#: inc/template-tags.php:169 inc/template-tags.php:189
+msgid "Edit"
+msgstr "Изменить"
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: template-parts/content-page.php:44
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr "Изменить <span class=\"screen-reader-text\">%s</span>"
+
+#: inc/customizer.php:1087
+msgid "Footer"
+msgstr "Подвал"
+
+#: inc/customizer.php:30
+msgid "GET PREMIUM"
+msgstr "ПОЛУЧИТЬ ПРЕМИУМ"
+
+#: inc/customizer.php:865
+msgid "Here you have to add 3 different pages in below dropdown. Note: Image Dimensions 1400 x 550 px"
+msgstr "Здесь вы должны добавить 3 разные страницы в раскрывающемся списке ниже. Примечание. Размеры изображения 1400 x 550 px"
+
+#. Template Name of the theme
+msgid "Home Template"
+msgstr "Шаблон главной страницы"
+
+#: 404.php:19
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "По данному адресу ничего не найдено. Попробуйте воспользоваться одной из ссылок ниже или поиском?"
+
+#: template-parts/content-none.php:44
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Похоже мы не можем найти то, что вы просите. Попробуйте воспользоваться поиском."
+
+#. translators: %s: post title
+#: inc/template-tags.php:41
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr "Добавить комментарий<span class=\"screen-reader-text\"> к  %s</span>"
+
+#: comments.php:56 comments.php:70
+msgid "Newer Comments"
+msgstr "Новые комментарии"
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr "Ничего не найдено"
+
+#: comments.php:55 comments.php:69
+msgid "Older Comments"
+msgstr "Предыдущие комментарии"
+
+#. translators: %s: post title
+#: comments.php:32
+msgid "One thought on &ldquo;%s&rdquo;"
+msgstr "Один комментарий к &ldquo;%s&rdquo;"
+
+#: 404.php:16
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Ой! Страница не найдена."
+
+#: template-parts/content-page.php:31 template-parts/content-single.php:57
+#: template-parts/content.php:47
+msgid "Pages:"
+msgstr "Страницы:"
+
+#: inc/template-tags.php:168
+msgid "Pingback:"
+msgstr "Уведомление:"
+
+#: functions.php:53
+msgid "Primary"
+msgstr "Основной"
+
+#. translators: %s: CMS name, i.e. WordPress.
+#: footer.php:79
+msgid "Proudly powered by %s"
+msgstr "На платформе %s"
+
+#. translators: 1: link to WP admin new post page.
+#: template-parts/content-none.php:24
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Готовы опубликовать свою первую запись? <a href=\"%1$s\">Начните здесь!</a>."
+
+#: searchform.php:14
+msgctxt "submit button"
+msgid "Search"
+msgstr "Поиск"
+
+#: searchform.php:12
+msgctxt "placeholder"
+msgid "Search &hellip;"
+msgstr "Поиск&hellip;"
+
+#: searchform.php:12
+msgctxt "label"
+msgid "Search for:"
+msgstr "Поиск по:"
+
+#. translators: %s: search query.
+#: search.php:21
+msgid "Search Results for: %s"
+msgstr "Результаты поиска для: %s"
+
+#: inc/customizer.php:930
+msgid "Select Slide Page"
+msgstr "Выберите страницу слайдера"
+
+#: template-parts/topheader/mainheader.php:58
+msgid "shopping cart"
+msgstr "корзина для покупок"
+
+#: functions.php:118
+msgid "Sidebar"
+msgstr "Область виджетов"
+
+#: header.php:32
+msgid "Skip to content"
+msgstr "Перейти к содержимому"
+
+#: inc/customizer.php:864
+msgid "Slider Settings"
+msgstr "Настройки слайдера"
+
+#: template-parts/content-none.php:37
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "По вашему запросу ничего не найдено. Попробуйте другие ключевые слова.."
+
+#: template-parts/navigation/navigation-top.php:14
+msgid "Top Menu"
+msgstr "Верхнее меню"
+
+#: woocommerce/checkout/form-checkout.php:26
+msgid "You must be logged in to checkout."
+msgstr "Вы должный войти на сайт, чтобы совершить покупку."
+
+#: inc/template-tags.php:194
+msgid "Your comment is awaiting moderation."
+msgstr "Ваш комментарий ожидает проверки."
+
+#: woocommerce/checkout/form-checkout.php:51
+msgid "Your order"
+msgstr "Ваш заказ"
+
+#: inc/customizer.php:749
+msgid "Facebook Link"
+msgstr "Ссылка Facebook"
+
+#: inc/customizer.php:796
+msgid "Intagram Link"
+msgstr "Ссылка Intagram"
+
+#: inc/customizer.php:820
+msgid "Linkedin Link"
+msgstr "Ссылка Linkedin"
+
+#: inc/customizer.php:843
+msgid "Pinterest Link"
+msgstr "Ссылка Pinterest"
+
+#: inc/customizer.php:717
+msgid "Social Links"
+msgstr "Ссылки соцсетей"
+
+#: inc/customizer.php:772
+msgid "Twitter Link"
+msgstr "Ссылка Twitter"
+
+#: inc/customizer.php:1044
+msgid "Select Product Category"
+msgstr "Выберите категорию товара"
+
+#: page-template/home-template.php:84
+msgid "Reviews"
+msgstr "Отзывы"
+
+#: template-parts/topheader/topheader.php:31
+msgid "My Account"
+msgstr "Моя учётная запись"
+
+#: template-parts/topheader/topheader.php:34
+msgid "Login / Register"
+msgstr "Вход / Регистрация"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:53 inc/template-tags.php:59
+msgid ", "
+msgstr ", "
+
+#. translators: %s: Name of current post
+#: inc/template-tags.php:69
+msgid "Edit %s"
+msgstr "Изменить %s"
+
+#: inc/customizer.php:1001
+msgid "Featured Product"
+msgstr "Рекомендуемый товар"
+
+#: functions.php:54
+msgid "Footer Menu"
+msgstr "Нижнее меню"
+
+#: inc/customizer.php:1002
+msgid "Here you have to select product category which will display perticular featured product in the home page."
+msgstr "Здесь вы должны выбрать категорию товара, которая будет отображать конкретный рекомендуемый товар на главной странице."
+
+#. translators: 1: number of Post
+#: inc/template-tags.php:55
+msgid "Posted in %1$s"
+msgstr "Опубликовано в %1$s"
+
+#. translators: %s: Tagged
+#: inc/template-tags.php:62
+msgid "Tagged %1$s"
+msgstr "Отмечено %1$s"
+
+#: inc/customizer.php:1065
+msgid "Text"
+msgstr "Текст"
+
+#. Template Name of the theme
+msgid "Left sidebar"
+msgstr "Боковая панель слева"
+
+#: inc/customizer.php:14
+msgid "Digital Books Pro"
+msgstr "Digital Books Pro"
+
+#. Author of the theme
+#: style.css
+#, gp-priority: low
+msgid "TheMagnifico52"
+msgstr "TheMagnifico52"
+
+#. Author URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "https://www.themagnifico.net/"
+msgstr "https://www.themagnifico.net/"
